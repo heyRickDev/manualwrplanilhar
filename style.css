@@ -68,8 +68,8 @@ main {
   /* border: 1px solid red; */
   display: grid;
   /* grid-column: 5; */
-  grid-template-columns: 1fr 1fr 1fr 1fr 5fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  /* grid-template-rows: 1fr 1fr; */
   background-color: #fff;
 }
 .wrapper-main-items {
